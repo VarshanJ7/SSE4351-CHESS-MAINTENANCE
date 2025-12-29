@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=figure
+comment1.params=
+comment1.target=boolean\ getColor()
+comment2.params=
+comment2.target=char\ getChar()
+comment3.params=coord
+comment3.target=void\ setCoordinate(boardCoordinate)
+comment4.params=
+comment4.target=boardCoordinate\ getCoordinate()
+comment5.params=feld
+comment5.target=boolean[][]\ movement(board)
+comment6.params=feld
+comment6.target=boolean[][]\ initMoveArray(board)
+numComments=7

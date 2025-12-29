@@ -100,3 +100,5 @@ Der Austausch über Git in einer Teamarbeit, war für alle eine neue Erfahrung, 
 * **Stephan Wahlen** - *Initial work and Figure validation* - [Metalheim](https://github.com/metalheim)
 * **Benjamin Horn** - *Documenation and management* - [PurpleBooth](https://github.com/PurpleBooth)
 * **Niclas Esser** - *Documenation, Figure validation and EventHandler* - [Niclas Esser](https://github.com/NiclasEsser)
+
+"zul - documentation"

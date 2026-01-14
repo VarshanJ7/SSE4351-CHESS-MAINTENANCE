@@ -1,6 +1,6 @@
 # Dokumentation von Schach
 
-Project Description: Chess Java project (subohao version)
+Project Description: Chess Java project
 
 
 Dieses Java-Projekt ist eine Implementierung des Brettspiels Schach.
